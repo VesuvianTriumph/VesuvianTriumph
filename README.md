@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on scraping publicly available football data and using it to create an AI-native database.
 
-🌱 I’m currently learning the best way to use GitHub
+🌱 I’m currently learning the best way to use GitHub and create autonomous workflows.
 
 ⚡ Fun fact: Ming Dynasty blue-and-white porcelain was so valuable in Europe that single pieces were worth more than houses.
 
